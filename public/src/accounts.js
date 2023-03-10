@@ -10,7 +10,7 @@ function getTotalNumberOfBorrows(account, books) {
  /* let count = 0;
   books.forEach(book => count += book.borrows.id.includes(account.id) ? 1 : 0);
   return count;
-}*/
+*/}
 
 function getBooksPossessedByAccount(account, books, authors) {}
 
